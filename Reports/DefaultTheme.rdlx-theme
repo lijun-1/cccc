@@ -11,6 +11,8 @@
     <Accent4>#EA772A</Accent4>
     <Accent5>#D03736</Accent5>
     <Accent6>#904DA0</Accent6>
+    <Hyperlink>#FFFFFF</Hyperlink>
+    <HyperlinkFollowed>#FFFFFF</HyperlinkFollowed>
   </Colors>
   <Fonts>
     <MajorFont>

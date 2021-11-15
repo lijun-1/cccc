@@ -3,6 +3,9 @@
   <IntegrateWithOtherApplication>
     <Password>3@uRonnxSMSQ</Password>
   </IntegrateWithOtherApplication>
+  <MaxRowCount>10000000</MaxRowCount>
+  <NotAllowModifyDatabaseByJsApi>False</NotAllowModifyDatabaseByJsApi>
+  <StartDateFiscalYear>1</StartDateFiscalYear>
   <UserServicePort>24549</UserServicePort>
   <WebSitePort>60157</WebSitePort>
 </ApplicationSettings>
