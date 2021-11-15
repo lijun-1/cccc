@@ -121,17 +121,7 @@
   },
   {
     "ModuleName": "供应商对账单",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\LayLi",
-      "Email": "729949858@qq.com"
-    },
-    "LockDateTime": "2021-11-15T19:11:08.1902345+08:00",
-    "ModuleType": 18,
-    "ToRemoveFiles": [
-      "Reports\\供应商对账单.rdlx",
-      "Reports\\供应商对账单.json"
-    ]
+    "ModuleType": 18
   },
   {
     "ModuleName": "报表1",
